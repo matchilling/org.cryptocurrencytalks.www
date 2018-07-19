@@ -1,0 +1,50 @@
+{
+  "name": "org.cryptocurrencytalks.www",
+  "description": "An unopinionated, curated list of the best cryptocurrencytalks talks on the Internet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mathias Schilling",
+    "email": "m@matchilling.com",
+    "url": "https://www.matchilling.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matchilling/org.cryptocurrencytalks.www/issues"
+  },
+  "homepage": "https://www.cryptocurrencytalks.org",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "gatsby": "^1.9.273",
+    "gatsby-link": "^1.6.45",
+    "gatsby-plugin-google-analytics": "^1.0.31",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-sass": "^1.0.26",
+    "gatsby-plugin-sharp": "^1.6.48",
+    "gatsby-plugin-sitemap": "^1.2.25",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-json": "^1.0.20",
+    "gatsby-transformer-sharp": "^1.6.27",
+    "gh-pages": "^1.2.0",
+    "moment": "^2.22.2",
+    "react-helmet": "^5.2.0",
+    "react-redux": "^5.0.7",
+    "react-youtube": "^7.6.0",
+    "redux": "^4.0.0",
+    "uuid": "^3.3.2"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "build": "node --max_old_space_size=12000 --stack-size=100000 ./node_modules/.bin/gatsby build --prefix-paths",
+    "deploy": "npm run build && gh-pages -d public",
+    "develop": "gatsby develop",
+    "download:video": "./bin/download_talk",
+    "format:data": "prettier --write 'data/**/*.json'",
+    "format:src": "prettier --write 'bin/*' 'src/**/*.js' 'gatsby-*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.7"
+  }
+}

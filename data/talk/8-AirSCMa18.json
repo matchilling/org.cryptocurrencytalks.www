@@ -1,0 +1,41 @@
+{
+  "description":
+    "Blockchain Conference organized by Crypto World Journal provides a unique platform to learn while experiencing invaluable networking.",
+  "id": "06e73b87-f738-4af2-b3c2-7a9df2fbe09f",
+  "meta": {
+    "commentCount": "454",
+    "dislikeCount": "131",
+    "duration": "PT42M14S",
+    "favoriteCount": "0",
+    "likeCount": "2182",
+    "viewCount": "89106"
+  },
+  "presenter": {
+    "name": "John McAfee"
+  },
+  "slug": "blockchain-nation-conference-2018-keynote",
+  "source": {
+    "id": "8-AirSCMa18",
+    "provider": "youtube"
+  },
+  "tag": ["Keynote"],
+  "title": "Blockchain Nation Conference 2018 Keynote",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/8-AirSCMa18/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/8-AirSCMa18/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/8-AirSCMa18/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  },
+  "type": "video"
+}

@@ -1,0 +1,41 @@
+{
+  "description":
+    "What is the blockchain? If you don't know, you should; if you do, chances are you still need some clarification on how it actually works. Don Tapscott is here to help, demystifying this world-changing, trust-building technology which, he says, represents nothing less than the second generation of the internet and holds the potential to transform money, business, government and society.",
+  "id": "f297a324-cad1-4e7a-91e5-c7b6f0a874d6",
+  "meta": {
+    "commentCount": "1135",
+    "dislikeCount": "498",
+    "duration": "PT18M50S",
+    "favoriteCount": "0",
+    "likeCount": "19428",
+    "viewCount": "1049960"
+  },
+  "presenter": {
+    "name": "Don Tapscott"
+  },
+  "slug": "how-the-blockchain-is-changing-money-and-business",
+  "source": {
+    "id": "Pl8OlkkwRpc",
+    "provider": "youtube"
+  },
+  "tag": ["TED Talk", "Clockchain", "Bitcoin", "Currency", "Economy"],
+  "title": "How the blockchain is changing money and business",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/Pl8OlkkwRpc/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/Pl8OlkkwRpc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/Pl8OlkkwRpc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  },
+  "type": "video"
+}
