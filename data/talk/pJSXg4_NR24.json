@@ -1,0 +1,41 @@
+{
+  "description":
+    "\"Every now and then, a truly stellar new technology emerges, and it always takes us to places we never imagined,\" says blockchain specialist Mike Schwartz. Like the combustion engine, the telephone and the Internet before it, blockchain promises to transform how human society functions. We're not there yet but if all goes as planned, blockchain may just underpin the first real revolution of the Information Age.",
+  "id": "b1a58c7d-3acc-4030-8dbe-23c86c8d858f",
+  "meta": {
+    "commentCount": "16",
+    "dislikeCount": "26",
+    "duration": "PT11M20S",
+    "favoriteCount": "0",
+    "likeCount": "295",
+    "viewCount": "49579"
+  },
+  "presenter": {
+    "name": "Mike Schwartz"
+  },
+  "slug": "the-potential-of-blockchain",
+  "source": {
+    "id": "pJSXg4_NR24",
+    "provider": "youtube"
+  },
+  "tag": ["TED Talk", "Blockchain", "Innovation", "Technology"],
+  "title": "The potential of blockchain",
+  "thumbnails": {
+    "default": {
+      "url": "https://i.ytimg.com/vi/pJSXg4_NR24/default.jpg",
+      "width": 120,
+      "height": 90
+    },
+    "medium": {
+      "url": "https://i.ytimg.com/vi/pJSXg4_NR24/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+    },
+    "high": {
+      "url": "https://i.ytimg.com/vi/pJSXg4_NR24/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    }
+  },
+  "type": "video"
+}
