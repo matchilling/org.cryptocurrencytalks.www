@@ -1,0 +1,2 @@
+webpackJsonp([19219813047479],{481:function(o,t){o.exports={data:{allTalkJson:null},pathContext:{slug:"technology",tag:"technology"}}}});
+//# sourceMappingURL=path---tag-technology-7cbf063c713a49167556.js.map

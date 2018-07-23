@@ -4,6 +4,10 @@
       "component---src-templates-speaker-index-js-ed4fd39c406aec01f53f.js",
       "component---src-templates-speaker-index-js-ed4fd39c406aec01f53f.js.map"
     ],
+    "path---tag-technology": [
+      "path---tag-technology-7cbf063c713a49167556.js",
+      "path---tag-technology-7cbf063c713a49167556.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-3a30c6c351e12ae2bd00.js",
       "component---src-pages-index-js-3a30c6c351e12ae2bd00.js.map"
@@ -11,6 +15,10 @@
     "path---tag-clockchain": [
       "path---tag-clockchain-d7ce185b3639d7bbc574.js",
       "path---tag-clockchain-d7ce185b3639d7bbc574.js.map"
+    ],
+    "path---tag-innovation": [
+      "path---tag-innovation-efb9aece583004131b65.js",
+      "path---tag-innovation-efb9aece583004131b65.js.map"
     ],
     "component---src-templates-tag-index-js": [
       "component---src-templates-tag-index-js-e5359d2287430f35f9d7.js",
@@ -25,8 +33,8 @@
       "path---speaker-john-mcafee-2a9dd7d577af752bab2a.js.map"
     ],
     "path---tag-ted-talk": [
-      "path---tag-ted-talk-933717f7462765507616.js",
-      "path---tag-ted-talk-933717f7462765507616.js.map"
+      "path---tag-ted-talk-5930f7fb6b7034729a70.js",
+      "path---tag-ted-talk-5930f7fb6b7034729a70.js.map"
     ],
     "path---speaker-don-tapscott": [
       "path---speaker-don-tapscott-969c126c7c2da36f6e48.js",
@@ -40,6 +48,10 @@
       "path---talk-how-the-blockchain-is-changing-money-and-business-2310abed95760a289372.js",
       "path---talk-how-the-blockchain-is-changing-money-and-business-2310abed95760a289372.js.map"
     ],
+    "path---talk-the-potential-of-blockchain": [
+      "path---talk-the-potential-of-blockchain-e103e407cca5a1607ea2.js",
+      "path---talk-the-potential-of-blockchain-e103e407cca5a1607ea2.js.map"
+    ],
     "path---tag-economy": [
       "path---tag-economy-a85558cc9ed6f48c572e.js",
       "path---tag-economy-a85558cc9ed6f48c572e.js.map"
@@ -49,8 +61,12 @@
       "path---tag-currency-f3582c521d6614615a67.js.map"
     ],
     "path---index": [
-      "path---index-9769e2fb0014b6189a46.js",
-      "path---index-9769e2fb0014b6189a46.js.map"
+      "path---index-ed735bea815ad794ed9a.js",
+      "path---index-ed735bea815ad794ed9a.js.map"
+    ],
+    "path---speaker-mike-schwartz": [
+      "path---speaker-mike-schwartz-442672d23dd6e37706e9.js",
+      "path---speaker-mike-schwartz-442672d23dd6e37706e9.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -59,6 +75,10 @@
     "commons": [
       "commons-27d93a1073fc4d26abdf.js",
       "commons-27d93a1073fc4d26abdf.js.map"
+    ],
+    "path---tag-blockchain": [
+      "path---tag-blockchain-2b05386aacc5585524e5.js",
+      "path---tag-blockchain-2b05386aacc5585524e5.js.map"
     ],
     "path---tag-keynote": [
       "path---tag-keynote-1fda673eee40a6ab826c.js",
@@ -81,8 +101,8 @@
       "path---talk-blockchain-nation-conference-2018-keynote-3a2ed655a9ce4a072923.js.map"
     ],
     "app": [
-      "app-172057688e44bc078d5f.js",
-      "app-172057688e44bc078d5f.js.map"
+      "app-19d731ec417aaa2b63ff.js",
+      "app-19d731ec417aaa2b63ff.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
