@@ -12,7 +12,7 @@ const Footer = () => (
         <a href="https://twitter.com/MatChilling">@matchilling</a> or create a
         pull request on{' '}
         <a href="https://github.com/matchilling/org.cryptocurrencytalks.www">
-          github.com/matchilling/org.cryptocurrencytalks.www
+          github.com
         </a>.
       </p>
     </div>
